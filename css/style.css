@@ -1,0 +1,47 @@
+@import url(./css/imgs.css);
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background: #f3eae8;
+}
+
+#titulo-principal {
+    text-align: center;
+    color: #00caff;
+}
+
+#titulo-lacteos {
+    color: #0626d0;
+}
+
+#titulo-frutas {
+    color: #320d0c;
+}
+
+#titulo-electronicos {
+    color: #8af75e;
+}
+
+#titulo-ropa {
+    color: #0efff9;
+}
+
+.productos {
+    background: #7b7a75;
+    border-radius: 20px;
+    width: 80%;
+    margin: 20px auto;
+    padding: 15px;
+    box-shadow: 2px 2px 20px #7b7a75;
+    display: flex;
+}
+div li {
+    color: white;
+    font-size: 20px;
+}
+footer {
+    text-align: center;
+}
