@@ -1,0 +1,17 @@
+.imgs {
+    border: 1px solid #f00;
+    background-color: #08ac12;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    display: flex;
+    float: right;
+    margin: 2px;
+}
+
+div a {
+    text-decoration: none;
+    padding: 20px 25px;
+    display: flex;
+    color: #fff;
+}
